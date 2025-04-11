@@ -28,6 +28,23 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vlt0rr&show_icons=true"
 </picture>
 </div>
+
+
+
+<h2 align="center" >📫 Como me contatar</h2>
+<br>
+<div align="center" >
+    <a href="https://www.linkedin.com/in/vit0ralves" target="_blank">
+  <img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="vitoralves20112011@gmail.com" target="_blank" style="margin-left: 10px;">
+  <img align="center" alt="Gmail" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
+</div>
+
+
+  
 <br>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />

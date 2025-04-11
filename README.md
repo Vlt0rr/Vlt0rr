@@ -18,7 +18,7 @@
 <div align="center" >
 	<picture>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=Vlt0rr&show_icons=true&theme=dark"
+		srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
 		media="(prefers-color-scheme: dark)"
 />
 <source
@@ -28,9 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Vlt0rr&show_icons=true"
 </picture>
 </div>
-
-![Snake animation](https://github.com/Vlt0rr/Vlt0rr/blob/output/github-contribution-grid-snake.svg)
-
+		
 <h2 align="center" >📫 Como me contatar</h2>
 <br>
 <div align="center" >

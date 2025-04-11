@@ -5,8 +5,14 @@
 <div align="center" >
 - 🔭 Atualmente estou cursando Ciência da computação na Universidade Federal do ABC
   <br>
-- 🌱 Tenho estudando as seguintes tecnologias: Python, R, SQL, Flutter/Dart e Power BI
+- 🌱 Tenho estudando as seguintes tecnologias: Python, Flask, R, Flutter e Dart
 </div>
 
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+    <img src="https://skillicons.dev/icons?i=python,flask,r,flutter,dart,github,git" />
+</div>
+<h2 align="center" ></h2>
 
 

@@ -29,7 +29,7 @@
 </picture>
 </div>
 
-
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center" >📫 Como me contatar</h2>
 <br>

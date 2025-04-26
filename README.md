@@ -13,6 +13,34 @@
 <div align="center" >
     <img src="https://skillicons.dev/icons?i=python,flask,r,flutter,dart,github,git" />
 </div>
+
+<div>
+
+<div>
+
+<h2 align="center">🚀 Meus Principais Projetos</h2>
+<br>
+
+<h4 align="center">👉 Clique nos botões abaixo para ser direcionado ao projeto 👇</h4>
+<br>
+
+<p align="center">
+  <a href="https://github.com/Vlt0rr/RSL_aplicacao">
+    <img src="https://img.shields.io/badge/Plataforma%20de%20Métricas-Python-blue?style=for-the-badge" alt="Plataforma Interna de Métricas e Produtividade">
+  </a>
+  <br><br>
+  <a href="https://github.com/Vlt0rr/Projeto_acoes">
+    <img src="https://img.shields.io/badge/Painel%20de%20Ações-Python-yellow?style=for-the-badge" alt="Painel de Preço de Ações">
+  </a>
+  <br><br>
+  <a href="https://github.com/Vlt0rr/vendas-insights-r">
+    <img src="https://img.shields.io/badge/Simulador%20de%20Vendas-R-orange?style=for-the-badge" alt="Simulador de Vendas e Análise de Receita com R">
+  </a>
+</p>
+
+</div>
+
+
 <h2 align="center" > ⚡Stats⚡</h2>
 <br>
 <div align="center" >

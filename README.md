@@ -19,7 +19,6 @@
 <div>
 
 <h2 align="center">🚀 Meus Principais Projetos</h2>
-<br>
 
 <h4 align="center">👉 Clique nos botões abaixo para ser direcionado ao projeto 👇</h4>
 <br>
